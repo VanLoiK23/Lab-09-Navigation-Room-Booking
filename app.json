@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Week 9 Navigation Demo",
+    "slug": "week9-navigation-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
